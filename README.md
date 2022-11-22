@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ajit766
-- 👀 I’m interested in adding lots and lots of value to the world
-- 🌱 I’m currently learning blockchain development
+- 👀 I’ve been a developer, founder and product manager. Currently doing project management for plentydefi.com
 - 💞️ I’m looking to collaborate on blockchain projects
 - 📫 How to reach me - Email: grandhiajit9@gmail.com
 
