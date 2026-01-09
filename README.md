@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajit766
-- 👀 I’ve been a developer, founder and product manager. Currently doing project management for plentydefi.com
-- 💞️ I’m looking to collaborate on blockchain projects
+- 👀 I’ve been a developer, founder and product manager. I'm currently exploring GenAI and build a few multi-agentic AI systems.
+- 💞️ I’m looking to collaborate on GenAI projects.
 - 📫 How to reach me - Email: grandhiajit9@gmail.com
 
 <!---
